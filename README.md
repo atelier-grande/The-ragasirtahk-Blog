@@ -1,5 +1,5 @@
-# The ragasirtahk Blog
-My personal blog. I share things I do here. View it here: https://www.ragasirtahk.tk/
+# The ateliergrande Blog
+My personal blog. I share things I do here. View it here: https://www.ateliergrande.com/
 
 ## Technologies Used
 - [Netlify CMS](https://www.netlifycms.org/)
@@ -14,7 +14,7 @@ My personal blog. I share things I do here. View it here: https://www.ragasirtah
 Please all the credit should be attributed to [original *Hexo* version](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak) and its author [Louis Barranqueiro](https://github.com/LouisBarranqueiro).
 
 ## Setup for Yourself
-I have created a guide explaining how someone can create a blog like mine using Hugo and Netlify CMS. You can view it [here](https://www.ragasirtahk.tk/2018/01/setting-up-netlify-cms-on-hugo/).
+I have created a guide explaining how someone can create a blog like mine using Hugo and Netlify CMS. You can view it [here](https://www.ateliergrande.com/2018/01/setting-up-netlify-cms-on-hugo/).
 
 ## Use as boilerplate
 Most of us love boilerplates!
@@ -23,7 +23,7 @@ Most of us love boilerplates!
 
 Credits if used as boilerplate (appreciated but not necessary).
 
->Credits to this repository and theme creators (see https://github.com/ragasirtahk/The-ragasirtahk-Blog#theme-credits) will be highly appreciated, it takes quite a significant amount of time to make such kind of boilerplate. 
+>Credits to this repository and theme creators (see https://github.com/ateliergrande/The-ateliergrande-Blog#theme-credits) will be highly appreciated, it takes quite a significant amount of time to make such kind of boilerplate. 
 
 Delete the contents of `/content/post` before using as boilerplate. Also delete the AdSense ad code in `/themes/hugo-tranquilpeak-theme/layouts/partials/footer.html` and `/themes/hugo-tranquilpeak-theme/layouts/partials/post/header.html
 ` and delete / change the Google Analytics tracking ID in the `/config.toml` file.
@@ -33,7 +33,7 @@ Please also delete `manifest.json`, `OneSignalSDKWorker.js`, `OneSignalSDKUpdate
 >You can simply fork/clone/download this repository, upload to your server or deploy to **Netlify** and create your own blog. Remember to delete the contents of `/content/post` before uploading or deploying it.
 
 ## My love for Netlify
-And yes this blog deploys on Netlify (https://www.ragasirtahk.tk/). 
+And yes this blog deploys on Netlify (https://www.ateliergrande.com/). 
 
 ![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-dark.svg "Deploys by Netlify")
 
